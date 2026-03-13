@@ -17,3 +17,5 @@ PyPDF2
 
 pip install -r requirements.txt
 streamlit run main.py
+
+Live demo: https://ai-resume-critiquer-v8xajooswgxmya9ynawtyf.streamlit.app/
